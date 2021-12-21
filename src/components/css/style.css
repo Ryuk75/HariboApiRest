@@ -1,0 +1,26 @@
+#buttonName{
+    color: #f0f0f0!important;
+}
+
+.titulos{
+    text-align: center!important;
+    font-style: italic;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+Table {
+    width: 100%;
+    border: 1px solid #f0f0f0;
+ }
+
+ th, td {
+    width: 15%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.4em;
+    caption-side: bottom;
+ }
